@@ -1,0 +1,6 @@
+[submodule "tickei-front-end"]
+	path = tickei-front-end
+	url = https://github.com/dcmatheus/tickei-front-end
+[submodule "tickei-back-end"]
+	path = tickei-back-end
+	url = https://github.com/dcmatheus/tickei-back-end
