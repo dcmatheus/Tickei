@@ -44,7 +44,7 @@ git submodule update
 
 ## Instale as dependências do Back-End e inicie a API
 
-Dentro da pasta raiz do projeto execute :
+Dentro da pasta raiz do projeto execute:
 
 ```shell
 cd ./tickei-back-end
@@ -66,4 +66,16 @@ Por fim, inicie a API :
 ```sh
 npm run dev
 ```
+
+## Instale as dependências do Front-End e inicie a Aplicação
+
+Dentro da pasta raiz do projeto execute:
+
+```shell
+cd ./tickei-front-end
+npm install
+n
+```
+
+
 
