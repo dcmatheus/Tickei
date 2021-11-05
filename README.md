@@ -1,6 +1,6 @@
 # Tickei
 
-Bem-vindo(a) ao Tickei. App de tarefas feito com ReactJS e Node Express para o desafio técnico da empresa Ebytr.
+Bem-vindo(a) ao Tickei. App de tarefas desenvolvido utilizando a Stack [MERN](https://www.mongodb.com/mern-stack)  para o desafio técnico da empresa Ebytr.
 
 # Bibliotecas e frameworks utilizados
 
