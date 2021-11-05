@@ -75,6 +75,3 @@ Dentro da pasta raiz do projeto execute:
 cd ./tickei-front-end
 npm install
 ```
-
-
-
